@@ -3,6 +3,6 @@
 ## How to
 
 ```
-gcc -o calculator main.c
+gcc -o calculator ./calculator/main.c
 ./calculator
 ```
